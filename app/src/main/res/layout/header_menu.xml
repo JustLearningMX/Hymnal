@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+
+
+    <!-- Editext for Search -->
+
+    <EditText
+        android:id="@+id/et_buscar"
+        android:layout_width="386dp"
+        android:layout_height="69dp"
+        android:hint="Buscar Himno..."
+        android:inputType="textVisiblePassword"
+        android:background="#ff8bc34a"
+        android:textColor="#ffeeecff"
+        android:textColorHint="#ffffffff"
+        android:paddingEnd="10dp"
+        android:paddingStart="10dp"
+        android:paddingTop="15dp"
+        android:textStyle="italic"
+        android:textAlignment="center"
+        android:paddingLeft="20dp" />
+
+    <!-- ImageView para mostrar una imagen
+
+   <ImageView
+       android:id="@+id/alertImage"
+       android:layout_width="250dp"
+       android:layout_height="233dp"
+       android:clickable="false"
+       android:focusable="false"
+       android:src="@mipmap/ic_launcher" /> -->
+
+</FrameLayout>

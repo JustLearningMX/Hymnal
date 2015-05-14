@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- LA DOXOLOGÍA INI-->
+    <string name="est1_himno_0">
+        I \n
+        A Dios, el Padre celestial \n
+        al Hijo, nuestro Redentor; \n
+        al eterno Consolador, \n
+        unidos, todos alabad. \n
+        Amen.
+    </string>
+    <!-- LA DOXOLOGÍA FIN-->
+
+    <!-- HIMNO 01 EN UN APOSENTO ALTO INI-->
+    <string name="est1_himno_1">
+        I \n
+        En un aposento alto, \n
+        Con unánime fervor, \n
+        Ciento veinte esperaban \n
+        La promesa del Señor.
+    </string>
+
+    <string name="est2_himno_1">
+        Coro \n
+        Dios manda tu gran poder, \n
+        Dios manda tu gran poder, \n
+        Dios manda tu gran poder, \n
+        A cada corazón.
+    </string>
+
+    <string name="est3_himno_1">
+        II \n
+        Con estruendo de los cielos \n
+        Descendió la gran virtud; \n
+        Todos fueron bautizados \n
+        Con el Santo Espíritu.
+    </string>
+
+    <string name="est4_himno_1">
+        III \n
+        Este gran poder antiguo \n
+        Es del fiel celeste don; \n
+        Prometido a los creyentes \n
+        De humilde corazón.
+    </string>
+
+    <string name="est5_himno_1">
+        IV \n
+        Dios está restituyendo \n
+        Este gran Pentecostés, \n
+        Y el Espíritu sus dones \n
+        Nos reparte otra vez.
+    </string>
+    <!-- HIMNO 01 EN UN APOSENTO ALTO FIN-->
+
+</resources>

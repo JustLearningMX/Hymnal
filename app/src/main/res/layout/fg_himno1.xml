@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView style="@style/titulo"
+        android:text="@string/tit_himno_1"
+        android:id="@+id/textView1"/>
+
+    <TextView style="@style/estrofa"
+        android:text="@string/est1_himno_1"
+        android:id="@+id/textView2"/>
+
+    <View style="@style/separador"/>
+
+    <TextView style="@style/estrofa"
+        android:text="@string/est2_himno_1"
+        android:id="@+id/textView3"/>
+
+    <View style="@style/separador"/>
+
+    <TextView style="@style/estrofa"
+        android:text="@string/est3_himno_1"
+        android:id="@+id/textView4"/>
+
+    <View style="@style/separador"/>
+
+    <TextView style="@style/estrofa"
+        android:text="@string/est4_himno_1"
+        android:id="@+id/textView5"/>
+
+    <View style="@style/separador"/>
+
+    <TextView style="@style/estrofa"
+        android:text="@string/est5_himno_1"
+        android:id="@+id/textView6"/>
+
+    <View style="@style/separador"/>
+
+
+</LinearLayout>
+
+</ScrollView>

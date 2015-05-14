@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">Himnos de Gloria Y Triunfo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Abrir navigation drawer</string>
+    <string name="drawer_close">Cerrar navigation drawer</string>
+
+    <!-- Indice -->
+
+    <string name="tit_himno_0">LA DOXOLOGIA: A DIOS EL PADRE</string>
+    <string name="tit_himno_1">HIMNO 1.- EL APOSENTO ALTO</string>
+    <string name="tit_himno_2">HIMNO 2.- LLUVIAS DE GRACIA</string>
+    <string name="tit_himno_3">HIMNO 3.- JESUS VENDRA OTRA VEZ</string>
+    <string name="tit_himno_4">HIMNO 4.- DULCE COMUNION</string>
+    <string name="tit_himno_5">HIMNO 5.- DESDE QUE SALVO ESTOY</string>
+
+
+</resources>
